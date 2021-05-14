@@ -22,7 +22,7 @@ The code is stored as a jupyter notebook Wine **quality Prediction-checkpoint.ip
 
 ## Data Processing
 
-As part of Data Processing to clean the data, the duplicate rows were removed, univariate and multivariate outliers were removed, the skewness in the data was handled using square root transformation, nominal categorical column **color** was one hot encoded
+As part of Data Processing to clean the data, the columns having high number of missing values and the unimportant column were dropped, the columns which had few missing values had the missing values replaced with mean/median, the features were weakly correlated to each on pearson correlation plot, there were no duplicate rows, univariate and multivariate outliers were removed, the skewness in the data was handled using square root transformation, date values were converted to datetime type, categorical variables were encoded.
 
 ## Findings
 
