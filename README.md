@@ -18,7 +18,7 @@ Machine Learning project that determines the magnitude of an earthquake based on
 
 ## Directory structure
 
-The code is stored as a jupyter notebook Wine **Earthquake Prediction.ipynb**. The data is present at **Earthquake.csv** file.
+The code is stored as a jupyter notebook Wine **Earthquake Prediction.ipynb**. The data is present in **Earthquake.csv** file.
 
 ## Data Processing
 
