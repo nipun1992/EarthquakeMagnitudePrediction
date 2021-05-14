@@ -71,3 +71,6 @@ Magnitude Type glossary :
 
 ## Model Building
 
+Built a Linear Regression model having **Mean absolute error :  0.25**, **Mean squared error :  0.107** and **Root mean squared error :  0.327**.
+
+Built a Random Forest regressor model.
