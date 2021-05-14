@@ -37,11 +37,11 @@ In the heatmap, the features are weakly correlated to one another. The pearson c
 #### Countplot, Pie chart and Catplot
 
 
-![Variable_Type_Countplot_PieChart](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/Type_plot.png)
+![Variable_Type_Countplot_PieChart](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/pics/Type_plot.png)
 
-![Variable_Type_Catplot](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/Type_plot_catplot.png)
+![Variable_Type_Catplot](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/pics/Type_plot_catplot.png)
 
-![Variable_MagnitudeType_Countplot_PieChart](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/MagnitudeType_plot.png)
+![Variable_MagnitudeType_Countplot_PieChart](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/pics/MagnitudeType_plot.png)
 
 ![Variable_MagnitudeType_Catplot](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/MagnitudeType_catplot.png)
 
