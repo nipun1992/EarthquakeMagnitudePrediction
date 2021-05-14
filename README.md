@@ -36,6 +36,18 @@ In the heatmap, the features are weakly correlated to one another. The pearson c
 
 #### Countplot, Pie chart and Catplot
 
+From the plots, we can observe that most of the earthquakes are genuine earthquakes whereas very few earthquakes are due to explosions. 99.24% of the earthquakes are genuine earthquakes whereas 0.76% earthquakes are due to explosions. the magnitude of earthquake ranges from 2.35 to approx 2.70 for genuine earthquakes whereas the magnitude varies from 2.35 to 2.55 in the case of explosions
+
+Magnitude Type glossary :
+
+ MWC : centroid
+ MWW : (Moment W-phase)(generic notation Mw)
+ MB : short-period body wave
+ MWB : body wave
+ MS : 20 sec surface wave
+ MWW : Moment W-phase)(generic notation Mw
+ MWR : regional
+ ML : local
 
 ![Variable_Type_Countplot_PieChart](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/pics/Type_plot.png)
 
@@ -56,20 +68,6 @@ In the heatmap, the features are weakly correlated to one another. The pearson c
 ![Variable_Status_Countplot_PieChart](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/pics/Status_plot.png)
 
 ![Variable_Status_Catplot](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/pics/Status_catplot.png)
-
-
-From the plots, we can observe that most of the earthquakes are genuine earthquakes whereas very few earthquakes are due to explosions. 99.24% of the earthquakes are genuine earthquakes whereas 0.76% earthquakes are due to explosions. the magnitude of earthquake ranges from 2.35 to approx 2.70 for genuine earthquakes whereas the magnitude varies from 2.35 to 2.55 in the case of explosions
-
-Magnitude Type glossary :
-
- MWC : centroid
- MWW : (Moment W-phase)(generic notation Mw)
- MB : short-period body wave
- MWB : body wave
- MS : 20 sec surface wave
- MWW : Moment W-phase)(generic notation Mw
- MWR : regional
- ML : local
 
 ## Model Building
 
