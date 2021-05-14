@@ -27,11 +27,26 @@ As part of Data Processing to clean the data, the columns having high number of 
 ## Findings
 
 
-### Correlation with Heatmap
+#### Correlation with Heatmap
 
 In the heatmap, the features are weakly correlated to one another. The pearson correlation of all the featurs is between -0.31 to 0.25 
 
 ![Heatmap](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/heatmap.png)
+
+#### Correlation with Heatmap
+
+
+![Variable_Type_Countplot_PieChart](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/Type_plot.png)
+
+![Variable_Type_Catplot](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/Type_plot_catplot.png)
+
+![Variable_MagnitudeType_Countplot_PieChart](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/MagnitudeType_plot.png)
+
+![Variable_MagnitudeType_Catplot](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/MagnitudeType_catplot.png)
+
+
+
+
 
 
 ## Model Building
