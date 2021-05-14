@@ -33,7 +33,8 @@ In the heatmap, the features are weakly correlated to one another. The pearson c
 
 ![Heatmap](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/heatmap.png)
 
-#### Correlation with Heatmap
+
+#### Countplot, Pie chart and Catplot
 
 
 ![Variable_Type_Countplot_PieChart](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/Type_plot.png)
@@ -44,8 +45,17 @@ In the heatmap, the features are weakly correlated to one another. The pearson c
 
 ![Variable_MagnitudeType_Catplot](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/MagnitudeType_catplot.png)
 
+![Variable_MagnitudeSource_Countplot_PieChart](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/MagnitudeSource_plot.png)
 
+![Variable_MagnitudeSource_Catplot](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/MagnitudeSource_catplot.png)
 
+![Variable_LocationSource_Countplot_PieChart](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/LocationSource_plot.png)
+
+![Variable_LocationSource_Catplot](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/LocationSource_catplot.png)
+
+![Variable_Status_Countplot_PieChart](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/Status_plot.png)
+
+![Variable_Status_Catplot](https://github.com/nipun1992/EarthquakeMagnitudePrediction/blob/main/Status_catplot.png)
 
 
 
