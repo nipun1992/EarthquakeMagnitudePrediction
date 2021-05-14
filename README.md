@@ -18,7 +18,7 @@ Machine Learning project that determines the magnitude of an earthquake based on
 
 ## Directory structure
 
-The code is stored as a jupyter notebook Wine **quality Prediction-checkpoint.ipynb** inside **src** folder. To run the code, please open the file in jupyter and use run all command to run the code. The data is present at **src/data** location.
+The code is stored as a jupyter notebook Wine **Earthquake Prediction.ipynb**. The data is present at **Earthquake.csv** file.
 
 ## Data Processing
 
